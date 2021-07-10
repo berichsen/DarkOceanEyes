@@ -1,0 +1,16 @@
+#Our Process:
+We work in small iterations with fast feedback. This process is cyclical, so each phase ends with a release of our product.
+A great learning from computer science is we try to deal with problems really small and ideally try to solve one hard problem
+at a time. The brain can only keep so much information in working memory at once.
+
+-- These steps should get us closer to our goal of completing the current phase.
+
+##Step 1: Write out problem requirements
+
+##Step 2: Write out technical specification
+
+##Step 3: Break up work into tickets to implement
+
+##Step 4: Implementation
+
+##Step 5: Feedback
