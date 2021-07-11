@@ -1,0 +1,19 @@
+#Engineering an ocean faring vessel
+The first goal of this project is to create an ocean faring vessel that can video and spend great lengths of time on the ocean.
+The goal of this is to travel all the oceans on the surface. We should get video from the whole surface of the ocean. We are going to stick
+with the Atlantic Ocean. Once we successfully traverse the Atlantic ocean, can traverse other oceans.
+
+Each the phases will take the engineering problem of creating a cheap, autonomous ocean-faring vessel and break it up into more manageable
+engineering problems. (this is the general direction and of course, issues will pop up.
+
+The current plan of order of dealing with issues is:
+1. Computer System- What chip, memory, hard disks? How can we interface with the boat w/o opening it?
+2. Navigation system- What will be used to navigate?
+3. Camera system- How will we record video? What quality?
+4. Telemetry, Command and control system
+5. Propeller system
+6. Energy storage system
+7. Energy source system
+8. Hull design- What kind of hull design? How will we open up the boat and interface or repair?
+9. Total construction
+10. Improvements

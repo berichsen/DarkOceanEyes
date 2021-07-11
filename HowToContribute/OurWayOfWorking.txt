@@ -1,4 +1,5 @@
 #Our Process:
+Read Time: 5 minutes
 We work in small iterations with fast feedback. This process is cyclical, so each phase ends with a release of our product.
 A great learning from computer science is we try to deal with problems really small and ideally try to solve one hard problem
 at a time. The brain can only keep so much information in working memory at once.
@@ -6,11 +7,39 @@ at a time. The brain can only keep so much information in working memory at once
 -- These steps should get us closer to our goal of completing the current phase.
 
 ##Step 1: Write out problem requirements
+For the problem requirements, the format should be the following:
+	What problem is this working trying to solve?
+	What are the constraints e.g. time, money, etc?
+	How do we know if we solved the problem?
+	
 
 ##Step 2: Write out technical specification
+For the technical specification, the format should be the following: (write Not applicable if not relevant)
+	How do we solve the problem?
+	How does this solve the problem?
+	What is a brief summary of the proposed solution?
+	How can we break up the work? Each step of work should be clearly defined?
+	What steps do you feel need help? E.g. other groups input to figure out.
+	What is the financial cost?
+	Where will the pieces be sourced?
+	What are the risks and how are they mitigated?
+	How do we detect if a failure happens and how do we fix it? Are there any issues we would not be able to figure out?
+	Where should we test this?
+	How do we mitigate electromagnetic interference? How do we mitigate the risk of water ruining coponents? How do we manage heat?
+	How do we managef force?
+	Does this solution change any other constraints?
+	How much power will this require?
+	How do we test if this works? Is anything untestable?
 
 ##Step 3: Break up work into tickets to implement
+	- a ticket is a unit of work that a person can independently do
+	- some tickets may depend on others and that should be specified
 
 ##Step 4: Implementation
 
 ##Step 5: Feedback
+	- We want to make feedback objective and uninterpreted so this can be metrics, and video of the building process
+	
+##Step 6: Retrospective and Analysis of feedback
+	- Analysis of the feedback and results of the experiments
+	- things we learned etc
