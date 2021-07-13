@@ -7,7 +7,7 @@ Each the phases will take the engineering problem of creating a cheap, autonomou
 engineering problems. (this is the general direction and of course, issues will pop up.
 
 The current plan of order of dealing with issues is:
-1. Computer System- What chip, memory, hard disks? How can we interface with the boat w/o opening it?
+1. Computer System- What chip, motherboard, I/O hardware modules, memory, hard disks will we use? How can we interface with the boat w/o opening it?
 2. Navigation system- What will be used to navigate?
 3. Camera system- How will we record video? What quality?
 4. Telemetry, Command and control system

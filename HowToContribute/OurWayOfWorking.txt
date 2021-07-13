@@ -1,33 +1,31 @@
 #Our Process:
 Read Time: 5 minutes
-We work in small iterations with fast feedback. This process is cyclical, so each phase ends with a release of our product.
-A great learning from computer science is we try to deal with problems really small and ideally try to solve one hard problem
-at a time. The brain can only keep so much information in working memory at once.
+We work in small iterations with fast feedback. We try to keep problems we are trying to solve very small yet nontrivial,
+to prevent getting lost in the details. Each problem solve should take us closer to achieving our epic.
 
--- These steps should get us closer to our goal of completing the current phase.
+Here are the steps we use to solve a problem.
 
 ##Step 1: Write out problem requirements
-For the problem requirements, the format should be the following:
-	What problem is this working trying to solve?
-	What are the constraints e.g. time, money, etc?
-	How do we know if we solved the problem?
-	
+For the problem specification, the format should be the following:
+    Give a summary/background of the problem.
+    What are the requirements that the solution must have? e.g. cpu must be able to do video processing,
+     and navigation simultaneously process.
+    Why does this problem need to be solved?
+    Why is this the most important problem to solve next?
 
 ##Step 2: Write out technical specification
 For the technical specification, the format should be the following: (write Not applicable if not relevant)
+    What are the constraints of the solution?
+    What constraints does the solution add? e.g. less power consumption for rest, electromagnetic interference...
 	How do we solve the problem?
 	How does this solve the problem?
-	What is a brief summary of the proposed solution?
 	How can we break up the work? Each step of work should be clearly defined?
-	What steps do you feel need help? E.g. other groups input to figure out.
 	What is the financial cost?
 	Where will the pieces be sourced?
 	What are the risks and how are they mitigated?
-	How do we detect if a failure happens and how do we fix it? Are there any issues we would not be able to figure out?
+	How do we detect if a failure happens and how do we fix it?
 	Where should we test this?
-	How do we mitigate electromagnetic interference? How do we mitigate the risk of water ruining coponents? How do we manage heat?
-	How do we managef force?
-	Does this solution change any other constraints?
+	What are the risks (overheating, emi, failure, etc) and how do we mitigate them?
 	How much power will this require?
 	How do we test if this works? Is anything untestable?
 
