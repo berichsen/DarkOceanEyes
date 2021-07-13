@@ -7,7 +7,7 @@ Here are the steps we use to solve a problem.
 
 ##Step 1: Write out problem requirements
 For the problem specification, the format should be the following:
-    Give a summary/background of the problem.
+    Summary of the problem.
     What are the requirements that the solution must have? e.g. cpu must be able to do video processing,
      and navigation simultaneously process.
     Why does this problem need to be solved?
