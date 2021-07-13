@@ -15,10 +15,9 @@ For the problem specification, the format should be the following:
 
 ##Step 2: Write out technical specification
 For the technical specification, the format should be the following: (write Not applicable if not relevant)
+	How do we solve the problem?
     What are the constraints of the solution?
     What constraints does the solution add? e.g. less power consumption for rest, electromagnetic interference...
-	How do we solve the problem?
-	How does this solve the problem?
 	How can we break up the work? Each step of work should be clearly defined?
 	What is the financial cost?
 	Where will the pieces be sourced?

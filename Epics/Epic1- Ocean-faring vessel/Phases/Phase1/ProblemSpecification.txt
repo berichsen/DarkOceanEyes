@@ -1,0 +1,25 @@
+#CPU Problem Specification
+##Summary of the problem:
+We need a digital processing unit to do tasks such as processing and storing video, navigating the boat with the propeller and gps,
+communicating with the satellite and bluetooth controller, managing power, and tracking various metrics and logs of the boat.
+We must consider temperature ranges, possible EMI, processing power, number of cores, instruction set architecture, I/O connection protocols,
+number of bits in word etc.
+We can choose either a cpu, micrprocessor, microcontroller.
+
+##What are the requirements that the solution must have?
+- We must be able to purchase 1,000s of this cpu or maybe a similar cpu
+- It must consume a low amount of power
+- It must be able communicate with various I/O such as hard disk, video camera,
+compass, propeller controller, led controller, gps module, satellite communication module
+ and bluetooth module
+- It must be compatible with common standard I/O components that we may use in the future 
+ 
+##Why does this problem need to be solved?
+To have an autonomous, self driving vehicle, it must have a cpu to orchestrate our stored
+program of instructions to drive the boat, take video, and various other functions.
+
+##Why is this the most important problem to solve next?
+The computer system orchestrates and electronically commands the components of the boat.
+We need to determine a good cpu, before we can determine other electronic components that
+are compatible.
+
