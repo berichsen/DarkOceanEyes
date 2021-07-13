@@ -9,7 +9,7 @@ also be aware of how much interference and electromagnetic interference. How lon
 How big should the cache be? What frequency shall it run at?
 
 ##What are the requirements that the solution must have?
-- We must be able to purchase 1,000s of this cpu or maybe a similiar cpu
+- We must be able to purchase 1,000s of this cpu or maybe a similar cpu
 - It must consume a low amount of power
 - It must be able communicate with various I/O such as hard disk, video camera,
 compass, propeller controller, led controller, gps module, satellite communication module
