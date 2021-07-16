@@ -1,0 +1,50 @@
+Proposed Hardware:
+
+Computer System:
+
+ESP32-CAM 
+Programmable in JavaScript using Espruino.js 
+(Also programmable in C++). 
+Supports Ad-Hoc data transfer over wifi and (experimental) BLE.
+Supports SDIO data transfer. 
+Built-in SDHC card reader, supports up to 16GB microSD
+Compatible with SDIO card reader modules which can interface with microSD-UHS cards of up to 128TB. 
+
+
+The ESP32-CAM is based upon the ESP32-S module, so it shares the same specifications.  It has the following features:
+* 802.11b/g/n Wi-Fi
+* Bluetooth 4.2 with BLE
+* UART, SPI, I2C and PWM interfaces
+* Clock speed up to 160 MHz
+* Computing power up to 600 DMIPS
+* 520 KB SRAM plus 4 MB PSRAM
+* Supports WiFi Image Upload
+* Multiple Sleep modes
+* Firmware Over the Air (FOTA) upgrades possible
+* 9 GPIO ports
+* Built-in Flash LED
+
+Max power consumption:
+~240mA @ ~3.7v
+MUCH less when on-board WiFi and BLE modules are disabled
+
+
+Nav System:
+Sparkfun NEO-M8U
+GPS + UDR + IMU
+https://www.sparkfun.com/products/16329
+
+Camera system:
+Integrated into ESP32-CAM microcontroller 
+
+The ESP32-CAM includes an OV2640 camera module. The device also supports OV7670 cameras.  The OV2640 has the following specifications:
+* 2 Megapixel sensor
+* Array size UXGA 1622×1200
+* Output formats include YUV422, YUV420, RGB565, RGB555 and 8-bit compressed data
+* Image transfer rate of 15 to 60 fps
+
+Telemetry Options: 
+- mesh-networking ($0 cost per-unit since the esp32 is capable of mesh networking), requires more units in the field)
+- Satellite-networking (Iridium Sat Network I2C Modem is ~$250 per-unit + $15/mo)
+
+5-10 TBD. 
