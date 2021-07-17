@@ -11,14 +11,20 @@ to further explore e.g. various potential new species spotted, pollution problem
 
 Questions to answer:
 How large should the aperature be?
-How large should the field depth be?
+How large should the focal length be?
+How many cameras should this be accomplished with?
+Choose CMOS vs CCD?
+How much storage is approximately required for 24 hours of video? (more just a sanity check that it is reasonable)
+What is the framerate?
+White balancing? Filter? (can move to future tech spec possibly)
+(break out the lens into a separate spec?)
 
 What are the requirements that the solution must have?
  - records video
  - handle a variety of high and low light situations across the spectrum
  - can record video nonstop for months at a time.
  - can handle various shallow depths; not so deep where you need a strobe (not sure if possible)
- - Wide focal length
+ - Wide field of view
  - minimal backscatter
  - Prime lens
 

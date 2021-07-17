@@ -1,4 +1,11 @@
 
 
 
-- Fisheye lens
+
+Solution:
+- CMOS
+- 60 frames per second (the boat will be moving a bunch so important) - might need to be adjusted
+-Wide lens, red light filter (or use own light source)?
+
+- 1920 x 1080 resolution at 60fps with youtube compression is 2.4 MB/second or 207GB/day. Probably less because
+there is no audio

@@ -1,16 +1,27 @@
 # DarkOceanEyes
-We are a designing unmanned autonomous vehicles to video every cubic kilometer of the ocean. We want to get a wide array of people like you
-to help cooperate and achieve this challening goal.
+We are a designing unmanned autonomous vehicles to video every cubic kilometer of the ocean. We are the only people in the world working on the important problem of trying to explore
+the entire ocean, and we need your help.
 
 ##The Problem
-Ocean explortation has been slow and expensive. The lack of innovation, and imagination has been sad. The ocean has been overshadowed by space.
-There are so many interesting creatures that offer life saving medicines. There are so many creatures that are undiscovered, and may die before
-we discover them (luckily we can at least get them on camera) due to our polluting of the ocean and climate change. If we can at least get them
-on camera we can have a better understanding of solution. Since so much of the ocean has been unexplored we have a very poor understanding of human
-impact on ocean. Oceanograpy and marine biology, we hypothesize is a very incomplete science because so little of the ocean is explored. The other
-issue is we don't see much innovation in the UAVs, so much of our society has been information technology innovation and not much innovation in
-atoms. We want to get scientists, engineers, artists, and enthusiasts excited about the ocean. It is unacceptable that in 2021 so much of the ocean
-is unknown to us, yet we have landed a man on the moon and many rovers millions of miles away on mars.
+About 85% of the ocean is unexplored. The ocean contains life-saving medical treatments through fish, important history, species that would further elucidate
+evolution, exploitable natural resources, information on human pollution impact and global warming, and much more. Due to the death and destruction of marine
+life, we may kill many species of fish before we can even study them, losing knowledge about life on Earth FOREVER. We are missing out on a lot of knowledge
+that can change the course of humanity for the better. The progress and innovation has been slow and unimpressive. For the year 2021, when I write this, I
+find this unacceptable.
+
+##Our Solution
+We want to send unmanned autonomous vehicles across the entire volume of the ocean and record it on video. To get a video of the ocean, would mean at least
+we have a visual picture of the ocean before a large percentage potentially gets destroyed.
+
+##What We Will Achieve
+We think the video footage will have the following benefits:
+	- A better holistic understanding of the ocean
+	- Discover of new species of marine life
+	- Inspire others to explore the ocean
+	- Understand the effects of pollution
+
+We think our freely available designs:
+	- Bring down the costs of unmanned autonomous vehicles
 
 ##Why us?
 If we didn't tackle this issue, would someone else? We found the answer to be a resounding no! Yes, there are organizations that are making
