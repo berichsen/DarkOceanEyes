@@ -33,6 +33,8 @@ For the technical specification, the format should be the following: (write Not 
 	- some tickets may depend on others and that should be specified
 
 ##Step 4: Implementation
+	- take and post video
+	- post results
 
 ##Step 5: Feedback
 	- We want to make feedback objective and uninterpreted so this can be metrics, and video of the building process
