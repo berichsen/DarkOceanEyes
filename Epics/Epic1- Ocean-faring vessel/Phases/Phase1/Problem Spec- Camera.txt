@@ -9,6 +9,8 @@ cabe with a camera at the end and can take video. We want video of the ocean in 
 specific, minute details, but will allow us or scientists to analyze the video to see where it'd be more interesting
 to further explore e.g. various potential new species spotted, pollution problems etc.
 
+--this should proabably be separated from a camera lens
+
 Questions to answer:
 How large should the aperature be?
 How large should the focal length be?

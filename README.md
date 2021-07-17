@@ -25,4 +25,11 @@ We think our freely available designs:
 
 ##Why us?
 If we didn't tackle this issue, would someone else? We found the answer to be a resounding no! Yes, there are organizations that are making
-nice progress with ocean explortation, but we find this progress to be slow and uninspiring.
+nice progress with ocean exploration, but we find this progress to be slow and uninspiring. We want this done faster because we understand that
+time is not on our side!
+
+##How To Contribute?
+Click on the 'HowtoContribute' folder and read 'Our ways of working'. We need expertist in mechanical, electrical, optical, software and naval engineering!
+
+##Questions on Contributing?
+Email me at 
