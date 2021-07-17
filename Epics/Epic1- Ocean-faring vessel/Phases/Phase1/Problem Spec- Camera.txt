@@ -1,0 +1,33 @@
+
+Summary of the problem:
+We need a camera that can record video of the ocean as the boat travels. The camera needs to be able to run
+for 24 hours a day for many months, and be able to capture video in a variety of light conditions. It'd also
+be nice if the video was date-time stamped and geolocation stamped. Due to potential rough water, there should
+be some sort of stabilization, but that can proabably be done on the processing video side, post mission. If we want
+to record really deep parts of the ocean, the boat can stay on the surface, and the camera be connected by a long
+cabe with a camera at the end and can take video. We want video of the ocean in general. This camera is not necessary
+specific, minute details, but will allow us or scientists to analyze the video to see where it'd be more interesting
+to further explore e.g. various potential new species spotted, pollution problems etc.
+
+Questions to answer:
+How large should the aperature be?
+How large should the field depth be?
+
+What are the requirements that the solution must have?
+ - records video
+ - handle a variety of high and low light situations across the spectrum
+ - can record video nonstop for months at a time.
+ - can handle various shallow depths; not so deep where you need a strobe (not sure if possible)
+ - Wide focal length
+ - minimal backscatter
+ - Prime lens
+
+
+ Why does this problem need to be solved?
+
+
+https://www.nauticexpo.com/prod/bluerobotics/product-69617-546035.html
+
+https://www.nauticexpo.com/prod/remote-ocean-system/product-40118-457208.html
+
+Simply stated, the lux is the metric unit for measuring the amount of light that falls on an object, and is the European equivalent of the British foot-candle (or lumen).
