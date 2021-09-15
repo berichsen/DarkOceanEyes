@@ -1,0 +1,7 @@
+film storage for 4k video:
+110gb/hour -> 2.4TB/day -> 240TB/100 days
+
+HPE LTO(Linear Tape Open) 8 Tape with Barium Ferrite (BaFe) 12TB storage capability for just $6/TB
+
+So the tape drive for LTO8 is most expensive so might make sense to use a lower number lto for a cheaper drive.
+will potentially need autoloader as well; might need to make ourselves.

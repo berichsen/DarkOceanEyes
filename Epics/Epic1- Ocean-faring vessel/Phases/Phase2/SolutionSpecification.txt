@@ -1,5 +1,5 @@
 
 
-ultra low voltage cpu? microcontroller?
+cpu with a socket
 
-cameras typically use i2c and then some parallel serial port.
+amd because better performance
